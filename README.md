@@ -1,6 +1,2 @@
 # Pneumonia Detection
-## Model - 1
-## Model - 2
-## Model - 3
-## Model - 4
-## Model - 5
+In this project, we developed and evaluated multiple deep learning models for the detection of pneumonia using chest X-ray images. We experimented with various architectures including Convolutional Neural Networks (CNN), InceptionV3, ResNet50, VGG16, and VGG19. Each model was trained, validated, and tested on a dataset of chest X-ray images containing pneumonia and normal cases. The models achieved varying levels of accuracy on the test set, with the best-performing model achieving an accuracy of approximately 92.31%
